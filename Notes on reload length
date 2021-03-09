@@ -1,0 +1,5 @@
+This file is a report on my findings on the length of each reload in the game. I gathered this data mostly through experimentation, combing the files, and by recording game footage
+
+Assault_Rifle:
+  Base reload anim 120 frames
+  Base rate 60 frames/second
