@@ -1,3 +1,69 @@
+This file is just some simple notes on how long each gun takes to reload w/out mods.
+The "round chambered" data was gathered with screen capture software and a stopwatch. 
+Note that each time is the frame that the ammo on the hud first changes
+
+If someone figures out where that value is stored I'd love to have some more accurate data! For now the experimentation method will work
+
 Gk2:
 Base reload: 1.8
-Round chambered: 
+Round chambered: 1.15
+
+Boomstick:
+Base reload: 2
+Round chambered: 1.3
+
+M1k:
+Base reload: 2.5
+Round chambered:
+
+Tracer pistols:
+Base reload: 1.8
+Round chambered:
+
+Flaregun:
+Base reload: 2.4
+Round chambered: 1.28
+
+Flamethrower:
+Base reload: 3
+Round chambered:
+
+Subata:
+Base reload: 1.9
+Round chambered:
+
+Warthog:
+Base reload: 2
+Round chambered:
+
+PGL:
+Base reload: 2
+Round chambered:
+
+Stubby:
+Base reload: 2
+Round chambered:
+
+Almighty purple laser blaster:
+Base reload: 3.4
+Round chambered:
+
+Platform gun:
+Base reload: 2
+Round chambered:
+
+Revolver:
+Base reload: 2
+Round chambered:
+
+Autocannon:
+Base reload: 5 (Oof)
+Round chambered:
+
+BRT:
+Base reload: 2.2
+Round chambered:
+
+Zipline:
+Base reload: 1.5
+Round chambered:
