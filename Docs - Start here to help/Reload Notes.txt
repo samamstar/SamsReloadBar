@@ -1,0 +1,3 @@
+Gk2:
+Base reload: 1.8
+Round chambered: 
