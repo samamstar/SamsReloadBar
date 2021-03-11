@@ -4,11 +4,15 @@ Note that each time is the frame that the ammo on the hud first changes
 
 If someone figures out where that value is stored I'd love to have some more accurate data! For now the experimentation method will work
 
+Weapon ready time is 520ms (maybe)(If this is wrong blame ArcticEcho it's their fault)
+
+
 Gk2:
 	Base reload: 1.8
 	Round chambered: 1.15
 	Modifiers:
 		OC GasRerouting -0.3
+	Slot: 1
 	
 
 Boomstick:
@@ -17,6 +21,7 @@ Boomstick:
 	Modifiers:
 		MOD QuickfireEjector -0.7
 		OC CompactShells -0.2
+	Slot: 2
 
 M1k:
 	Base reload: 2.5
@@ -24,6 +29,7 @@ M1k:
 	Modifiers:
 		OC MinimalClips -0.2
 		OC ActiveStabilitySystem +0.5
+	Slot: 1
 	
 Tracer pistols:
 	Base reload: 1.8
@@ -31,18 +37,21 @@ Tracer pistols:
 	Modifiers:
 		MOD QuickfireEjector -0.6
 		OC MinimalMagazines -0.4
+	Slot: 2
 
 Flaregun:
 	Base reload: 2.4
 	Round chambered: 1.28
 	Modifiers:
 		
+	Slot: 4
 
 Flamethrower:
 	Base reload: 3
 	Round chambered:
 	Modifiers:
-		
+	
+	Slot: 1	
 
 Subata:
 	Base reload: 1.9
@@ -50,6 +59,7 @@ Subata:
 	Modifiers:
 		MOD QuickfireEjector -0.6
 		OC OversizedMagazine +0.5
+	Slot: 2
 
 Warthog:
 	Base reload: 2
@@ -58,11 +68,14 @@ Warthog:
 		MOD QuickfireEjector -0.5
 		OC LightWeightMagazines -0.4
 		OC CycleOverload +0.5
+	Slot: 1
 
 PGL:
 	Base reload: 2
 	Round chambered:
 	Modifiers:
+	
+	Slot: 2
 		
 
 Stubby:
@@ -70,6 +83,7 @@ Stubby:
 	Round chambered:
 	Modifiers:
 		OC WellOiledMachine -0.2
+	Slot: 1
 
 Almighty purple laser blaster:
 	Base reload: 3.4
@@ -77,12 +91,14 @@ Almighty purple laser blaster:
 	Modifiers:
 		MOD ImprovedCaseEjector -0.4
 		OC LightWeightCases	-0.2
+	Slot: 2
 
 Platform gun:
 	Base reload: 2
 	Round chambered:
 	Modifiers:
 		
+	Slot: 3
 
 Revolver:
 	Base reload: 2
@@ -91,6 +107,7 @@ Revolver:
 		MOD QuickfireEjector -0.7
 		OC SixShooter +0.5
 		OC ElephantRounds +0.5
+	Slot: 2
 
 Autocannon:
 	Base reload: 5 (Oof)
@@ -98,6 +115,7 @@ Autocannon:
 	Modifiers:
 		OC CompositeDrums -0.5
 		OC CombatMobility -1.0
+	Slot: 1
 
 BRT:
 	Base reload: 2.2
@@ -105,10 +123,12 @@ BRT:
 		MOD QuickfireEjector -0.7
 		OC FullChamberSeal -0.2
 		OC CompactMags +0.4
-		
+	Slot: 2
 
 Zipline:
 	Base reload: 1.5
 	Round chambered:
-		Modifiers:
+	Modifiers:
 		
+	Slot: 3
+	
