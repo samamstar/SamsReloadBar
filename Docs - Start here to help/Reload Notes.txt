@@ -4,7 +4,7 @@ Note that each time is the frame that the ammo on the hud first changes
 
 If someone figures out where that value is stored I'd love to have some more accurate data! For now the experimentation method will work
 
-Weapon ready time is 520ms (maybe)(If this is wrong blame ArcticEcho it's their fault)
+Weapon ready time is 500ms
 
 
 Gk2:
@@ -25,7 +25,7 @@ Boomstick:
 
 M1k:
 	Base reload: 2.5
-	Round chambered:
+	Round chambered: 1.04
 	Modifiers:
 		OC MinimalClips -0.2
 		OC ActiveStabilitySystem +0.5
@@ -33,7 +33,7 @@ M1k:
 	
 Tracer pistols:
 	Base reload: 1.8
-	Round chambered:
+	Round chambered: 0.87
 	Modifiers:
 		MOD QuickfireEjector -0.6
 		OC MinimalMagazines -0.4
@@ -48,14 +48,14 @@ Flaregun:
 
 Flamethrower:
 	Base reload: 3
-	Round chambered:
+	Round chambered: 1.67
 	Modifiers:
 	
 	Slot: 1	
 
 Subata:
 	Base reload: 1.9
-	Round chambered:
+	Round chambered: 0.85
 	Modifiers:
 		MOD QuickfireEjector -0.6
 		OC OversizedMagazine +0.5
@@ -63,7 +63,7 @@ Subata:
 
 Warthog:
 	Base reload: 2
-	Round chambered:
+	Round chambered: 0.65
 	Modifiers:
 		MOD QuickfireEjector -0.5
 		OC LightWeightMagazines -0.4
@@ -72,22 +72,22 @@ Warthog:
 
 PGL:
 	Base reload: 2
-	Round chambered:
+	Round chambered: 1.07 !Possibly innacurate, auto reload messin me up. Hopefully can get better data later
 	Modifiers:
 	
 	Slot: 2
-		
+		""""
 
 Stubby:
 	Base reload: 2
-	Round chambered:
+	Round chambered: 1.22
 	Modifiers:
 		OC WellOiledMachine -0.2
 	Slot: 1
 
 Almighty purple laser blaster:
 	Base reload: 3.4
-	Round chambered:
+	Round chambered: 2.42
 	Modifiers:
 		MOD ImprovedCaseEjector -0.4
 		OC LightWeightCases	-0.2
@@ -95,14 +95,14 @@ Almighty purple laser blaster:
 
 Platform gun:
 	Base reload: 2
-	Round chambered:
+	Round chambered: 1.04
 	Modifiers:
 		
 	Slot: 3
 
 Revolver:
 	Base reload: 2
-	Round chambered:
+	Round chambered: 1.12
 	Modifiers:
 		MOD QuickfireEjector -0.7
 		OC SixShooter +0.5
@@ -111,7 +111,7 @@ Revolver:
 
 Autocannon:
 	Base reload: 5 (Oof)
-	Round chambered:
+	Round chambered: 3.39
 	Modifiers:
 		OC CompositeDrums -0.5
 		OC CombatMobility -1.0
@@ -119,7 +119,7 @@ Autocannon:
 
 BRT:
 	Base reload: 2.2
-	Round chambered:
+	Round chambered: 1.29
 		MOD QuickfireEjector -0.7
 		OC FullChamberSeal -0.2
 		OC CompactMags +0.4
@@ -127,7 +127,7 @@ BRT:
 
 Zipline:
 	Base reload: 1.5
-	Round chambered:
+	Round chambered: 1.29 !Auto reload strikes again! Will try to get better data later
 	Modifiers:
 		
 	Slot: 3
