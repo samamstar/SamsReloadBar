@@ -1,8 +1,6 @@
 # SamsReloadBar
 A progress bar for reload animations in Deep Rock Galactic
 
-For now, there is no option to save builds between missions or modify the reload time. More will come, be patient!
-
 To report bugs please add an issue in GitHub. I hang out on the discord but this is the best way to get support
 
 # License
