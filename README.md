@@ -11,6 +11,7 @@ A progress bar for reload animations in Deep Rock Galactic
 - Does not intercept reload properly directly after firing (especially on low ROF weapons)
 
 # Showcase
+![Video Showcase](main/ReadmeMedia/ReloadBarShowcase.m4v)
 
 # Installation instructions
 1. Download SamsReloadBar.pak from the releases page
