@@ -4,6 +4,7 @@ A progress bar for reload animations in Deep Rock Galactic
 ### Features
 - Support for each reloadable weapon in Deep Rock Galactic
 - Shows optimal timing for "animation cancelling"
+- Supports builds with different reload speeds
 
 ### Known issues
 - Does not currently support "empty mag" reloading
