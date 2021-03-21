@@ -9,7 +9,7 @@ Weapon ready time is 500ms
 
 Gk2:
 	Base reload: 1.8
-	Round chambered: 1.15
+	Round chambered: 1.06
 	Modifiers:
 		OC GasRerouting -0.3
 	Slot: 1
@@ -17,7 +17,7 @@ Gk2:
 
 Boomstick:
 	Base reload: 2
-	Round chambered: 1.3
+	Round chambered: 1.23
 	Modifiers:
 		MOD QuickfireEjector -0.7
 		OC CompactShells -0.2
@@ -25,7 +25,7 @@ Boomstick:
 
 M1k:
 	Base reload: 2.5
-	Round chambered: 1.04
+	Round chambered: 1.03
 	Modifiers:
 		OC MinimalClips -0.2
 		OC ActiveStabilitySystem +0.5
@@ -41,7 +41,7 @@ Tracer pistols:
 
 Flaregun:
 	Base reload: 2.4
-	Round chambered: 1.28
+	Round chambered: 1.22
 	Modifiers:
 		
 	Slot: 4
