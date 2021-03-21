@@ -1,0 +1,6 @@
+Thanks to cheat engine I can view the value of specific memory addresses in the... whatever stores memory
+tbh I didn't pay enough attention in CS class, but hopefully I can figure it out
+
+
+Pointer for current mag (hopefully)(Yes!)
+[[[[[["FSD-Win64-Shipping.exe"+048B1EF0]+0]+20]+A40]+250]+5D0]
