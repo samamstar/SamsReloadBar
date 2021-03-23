@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Don't grab the stuff I've compiled
 Cooked/*
+
+# Don't grab the stuff I ripped from the game (IP theft is a serious crime broh)
+Content/*
+!Content/_ModBPs/**
